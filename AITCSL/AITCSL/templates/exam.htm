@@ -1,0 +1,19 @@
+<style>
+body{font-family:標楷體}
+</style>
+
+<form action="result" method="post">
+{% csrf_token %}
+
+<h2>{{ exam.lesson_name }}（TBCL 第4級）</h2>
+　　{{ exam.lesson_text }}
+
+<h2>生詞測驗</h2>
+<ol>
+{% for word in exam.words %}
+<li><input name="word_{{ forloop.counter }}" value="{{ word.word }}"> - {{ word.pinyin }} - {{ word.pos }}  - {{ word.meaning }}</input>
+{% endfor %}
+</ol>
+
+<input type=submit>
+</form>
