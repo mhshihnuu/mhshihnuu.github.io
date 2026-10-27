@@ -1,0 +1,47 @@
+[?2004h[01;32msimon_xian@instance-20261010-030236[00m:[01;34m~/venv/mhshihnuu.github.io/AITCSL[00m$ ls
+[?2004l[0m[34;42mAITCSL[0m  db.sqlite3  index.htm  manage.py  screenlog.0
+[?2004h[01;32msimon_xian@instance-20261010-030236[00m:[01;34m~/venv/mhshihnuu.github.io/AITCSL[00m$ source ~/venv/bin/activate
+[?2004l[?2004h(venv) [01;32msimon_xian@instance-20261010-030236[00m:[01;34m~/venv/mhshihnuu.github.io/AITCSL[00m$ python3 m[K[K[K manage.py runserver 0.0.0.0:8000
+[?2004lWatching for file changes with StatReloader
+Performing system checks...
+
+探討未來城市的永續發展 (Exploring Sustainable Development in Future Cities)
+現今社會正在快速發展，各國學者紛紛「探討」未來城市發展的「趨勢」。
+Xiànjīn shèhuì zhèngzài kuàisù fǎzhǎn, gèguó xuézhě fēnfēn "tàntǎo" wèilái chéngshì fǎzhǎn de "qūshì".
+
+隨著人口快速成長，各大都會區「普遍」出現了空間短缺與交通壅塞的問題。
+Suízhe rénkǒu kuàisù chéngzhǎng, gèdà dūhuìqū "pǔbiàn" chūxiàn le kōngjiān duǎnquē yǔ jiāotōng yōngsè de wèntí.
+
+在追求經濟繁榮的同時，我們也正「面臨」氣候變遷與生態破壞等嚴峻挑戰。
+Zài zhuīqiú jīngjì fánróng de tóngshí, wǒmen yě zhèng "miànlín" qìhòu biànqiān yǔ shēngtài pòhuài děng yánjùn tiǎozhàn.
+
+因此，如何妥善分配並保護珍貴的自然「資源」，成為解決危機的「關鍵」。
+Yīncǐ, rúhé tuǒshàn fēnpèi bìng bǎohù zhēnguì de zìrán "zīyuán", chéngwéi jiějué wēijī de "guānjiàn".
+
+決策者必須審慎「評估」各項公共建設對環境帶來的長期影響。
+Juécèzhě bìxū shěnshèn "pínggū" gèxiàng gōnggòng jiànshè duì huánjìng dàilái de chángqí yǐngxiǎng.
+
+除了落實相關環保「措施」，導入智慧科技亦能大幅提升能源利用的「效率」。
+Chúle luòshí xiāngguān huánbǎo "cuòshī", dǎorù zhìhuì kējì yì néng dàfú tíshēng néngyuán lìyòng de "xiàolǜ".
+
+產官學界若能攜手合作，必能有效「促進」產業轉型，共同邁向更宜居的生活環境。
+Chǎn-guān-xué jiè ruò néng xiēshǒu hézuò, bì néng yǒuxiào "cùjìn" chǎnyè zhuǎnxíng, gòngtóng màixiàng gèng yíjū de shēnghuó huánjìng.
+探討 tàntǎo Verb to explore; to investigate; to discuss in depth
+趨勢 qūshì Noun trend; tendency
+普遍 pǔbiàn Adjective widespread; common; universal
+面臨 miànlín Verb to face; to be confronted with
+資源 zīyuán Noun resource; natural endowment
+關鍵 guānjiàn Noun / Adjective key factor; crucial; critical
+評估 pínggū Verb to evaluate; to assess
+措施 cuòshī Noun measure; step (taken to solve a problem)
+效率 xiàolǜ Noun efficiency
+促進 cùjìn Verb to promote; to advance; to accelerate
+System check identified no issues (0 silenced).
+October 27, 2026 - 15:26:30
+Django version 6.1.2, using settings 'AITCSL.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+[33;1mWARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/[0m
+^[[Af     
