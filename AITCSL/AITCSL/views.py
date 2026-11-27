@@ -26,6 +26,8 @@ for word in exam.words:
     print(word.word, word.pinyin, word.pos, word.meaning)
 from django.http import HttpResponse
 from django.shortcuts import render
+def index(request):
+    return render(request, "index.htm",{})
 def home(request):
     return render(request, "exam.htm",{"exam": exam})
 def result(request):
