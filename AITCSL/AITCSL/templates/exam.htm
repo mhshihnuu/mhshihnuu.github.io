@@ -2,10 +2,10 @@
 body{font-family:標楷體}
 </style>
 
-<form action="result" method="post">
+<form action="result">
 {% csrf_token %}
 
-<h2>{{ exam.lesson_name }}（TBCL 第4級）</h2>
+<h2>{{ exam.lesson_name }}（{{ exam.lesson_level }}）</h2>
 　　{{ exam.lesson_text }}
 
 <h2>生詞測驗</h2>
